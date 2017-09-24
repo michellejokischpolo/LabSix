@@ -1,0 +1,7 @@
+C:\Users\Michelle Jokisch\source\repos\LabSix\LabSix\bin\Debug\LabSix.exe.config
+C:\Users\Michelle Jokisch\source\repos\LabSix\LabSix\bin\Debug\LabSix.exe
+C:\Users\Michelle Jokisch\source\repos\LabSix\LabSix\bin\Debug\LabSix.pdb
+C:\Users\Michelle Jokisch\source\repos\LabSix\LabSix\obj\Debug\LabSix.csprojResolveAssemblyReference.cache
+C:\Users\Michelle Jokisch\source\repos\LabSix\LabSix\obj\Debug\LabSix.csproj.CoreCompileInputs.cache
+C:\Users\Michelle Jokisch\source\repos\LabSix\LabSix\obj\Debug\LabSix.exe
+C:\Users\Michelle Jokisch\source\repos\LabSix\LabSix\obj\Debug\LabSix.pdb
